@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📅 I've been programming for about 30 years and a professional developer for the last 20 of those
+💙 I'm a big believer in Flutter & Dart but I also like Kotlin and C# a lot
+💼 I run my own app agency
+🏃‍♂️ I'm on a 1000+ days runstreak
