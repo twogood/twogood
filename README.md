@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
 ### Hi there 👋
 
 <!--
@@ -21,5 +23,3 @@ Here are some ideas to get you started:
 - 🏃‍♂️ I'm on a 3+ years runstreak
 
 
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
