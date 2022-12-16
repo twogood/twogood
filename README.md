@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 📅 I've been programming for about 30 years and professional developer for the last 20 of those
 - 💙 I'm a big believer in Flutter & Dart but I also like Kotlin and C# a lot
-- 💼 I run my own app agency
+- 💼 I run my own Flutter consultancy company
 - 🏃‍♂️ I'm on a 3+ years runstreak
 
 
