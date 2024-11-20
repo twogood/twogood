@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 📅 I've been programming for over 30 years and professional developer for more than 20 of those
 - 💙 I'm a big believer in Flutter & Dart but I also like Kotlin and C# a lot
 - 💼 Software development technical advisor @[Activout](https://activout.se)
-- 🏃‍♂️ I'm on a 4+ years runstreak
+- 🏃‍♂️ I'm on a 5+ years runstreak
 
 
