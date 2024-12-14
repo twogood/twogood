@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 -->
 
 - 📅 I've been programming for over 30 years and professional developer for more than 20 of those
-- 💙 I'm a big believer in Flutter & Dart but I also like Kotlin and C# a lot
+- 💙 I'm a big believer in Flutter & Dart
 - 💼 .NET and Flutter expert @[Activout](https://activout.se)
-- 🏃‍♂️ I'm on a 5+ years runstreak
+- 🏃‍♂️ On a 5+ years runstreak
+- ⭐ Proud [Contentful Developer Hero](https://www.contentful.com/developers/heroes/)
 
-
+![Contentful Developer Hero](contentful.png)
