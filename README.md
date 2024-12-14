@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 🏃‍♂️ On a 5+ years runstreak
 - ⭐ Proud [Contentful Developer Hero](https://www.contentful.com/developers/heroes/)
 
-![Contentful Developer Hero](contentful.png)
+<img src="contentful.png" alt="Contentful Developer Hero" style="max-width: 600px">
