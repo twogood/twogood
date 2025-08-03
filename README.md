@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📅 I've been programming for over 30 years and professional developer for more than 20 of those
 - 💙 I'm a big believer in Flutter & Dart
 - 💼 .NET and Flutter expert @[Activout](https://activout.se)
-- 🏃‍♂️ On a 5+ years runstreak
+- 🏃‍♂️ On a 6+ years runstreak
 - ⭐ Proud [Contentful Developer Hero](https://www.contentful.com/developers/heroes/)
 
 <img src="contentful.png" alt="Contentful Developer Hero" width="600px">
