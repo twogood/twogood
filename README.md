@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 💙 I'm a big believer in Flutter & Dart
 - 💼 .NET and Flutter expert @[Activout](https://activout.se)
 - 🏃‍♂️ On a 7+ years runstreak
-- ⭐ Proud [Contentful Developer Hero](https://www.contentful.com/developers/heroes/)
+- ⭐ Proud [Contentful Creator](https://www.contentful.com/developers/creator-program/)
 
-<img src="contentful.png" alt="Contentful Developer Hero" width="600px">
+<img src="contentful.png" alt="Contentful Creator" width="600px">
